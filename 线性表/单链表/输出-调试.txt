@@ -1,0 +1,12 @@
+﻿“单链表.exe”(Win32): 已加载“E:\数据结构\线性表\单链表\Debug\单链表.exe”。已加载符号。
+“单链表.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“单链表.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“单链表.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“单链表.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“单链表.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“单链表.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x44d0 已退出，返回值为 0 (0x0)。
+线程 0x63b0 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1600 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x3570 已退出，返回值为 -1073741749 (0xc000004b)。
+程序“[13448] 单链表.exe”已退出，返回值为 -1073741510 (0xc000013a)。
