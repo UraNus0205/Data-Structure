@@ -61,7 +61,7 @@ void InitList1(SqList &L)//初始化静态顺序表
 	L.length = 0;
 }
 
- bool ListInsert1(SqList& L, int i, ElemType e)//在第i个位置插入元素e
+bool ListInsert1(SqList& L, int i, ElemType e)//在第i个位置插入元素e
 {
 	 if (i<1 || i>L.length + 1)
 	 {
